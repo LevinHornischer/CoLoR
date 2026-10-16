@@ -15,7 +15,7 @@ We have one session per week during the semester:
    
 # Lecture notes and material
 
-The lecture notes are written as the course progresses. You find the latest edition here: TBA
+The lecture notes are written as the course progresses. You find the latest edition here: [`color.pdf`](color.pdf).
 
 # Formalities
 
@@ -29,7 +29,7 @@ The schedule below describes in which week we will cover which material in the l
      
 Week | Date       | Chapter | Lecture | Exercise 
 ---  | ---        | ---     | ---     | --- 
- 1   | 16.10.2026 | 1   | Introduction to the course | 
+ 1   | 16.10.2026 | 1   | Introduction to the course | ex 1.a-b
  2   | 23.10.2026 | TBA |   | 
  3   | 30.10.2026 | TBA |   | 
  4   | 06.11.2026 | TBA |   | 
