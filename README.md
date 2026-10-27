@@ -29,8 +29,8 @@ The schedule below describes in which week we will cover which material in the l
      
 Week | Date       | Chapter | Lecture | Exercise 
 ---  | ---        | ---     | ---     | --- 
- 1   | 16.10.2026 | 1   | Introduction to the course | ex 1.a-b
- 2   | 23.10.2026 | TBA |   | 
+ 1   | 16.10.2026 | 1   | Introduction to the course | Ex 1.a-b
+ 2   | 23.10.2026 | 2   | Sec. 2.1 | Ex 2.a-b 
  3   | 30.10.2026 | TBA |   | 
  4   | 06.11.2026 | TBA |   | 
  5   | 13.11.2026 | TBA |   | 
